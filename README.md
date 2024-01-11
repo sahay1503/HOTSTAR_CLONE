@@ -1,1 +1,2 @@
-# HOTSTAR_CLONE
+# Hotstar-Clone-Project
+DisneyPlus Hotstar project using HTML , CSS , BOOTSTRAP
